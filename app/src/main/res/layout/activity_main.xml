@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_alignParentBottom="true"
-        android:background="#F1F1F1"
+        android:background="#F1F1F6"
         android:paddingVertical="12dp"
         android:id="@+id/buttons_layout">
 
